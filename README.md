@@ -1,4 +1,4 @@
-<!DOCTYPE HTML/>
+<!DOCTYPE HTML>
 
 <h1> Semaine 3 </h1>
 
@@ -8,5 +8,5 @@
 
 <p> J'ai beaucoup aimé la méthode du canard en plastique ! </p>
 
-<p> Voici mon lien vers mes badges codeacademy <a href="https://www.codecademy.com/fr/users/Artbooster/achievements"> Badges </a> </p>
+<p> Voici mon lien vers mes badges codeacademy : <a href="https://www.codecademy.com/fr/users/Artbooster/achievements"> Badges </a> </p>
 

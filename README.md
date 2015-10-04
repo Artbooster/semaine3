@@ -1,5 +1,3 @@
-<!DOCTYPE HTML>
-
 <h1> Semaine 3 </h1>
 
 <p> Cette semaine, j'ai redécouvert le CSS et taché dans apprendre un peu plus sur son utilisation ! </p>
